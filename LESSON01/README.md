@@ -1,6 +1,6 @@
 # LESSON01 - Cluster Architecture
 
-- [Click Here to view the lesson](https://google.com)
+- [Click Here to view the lesson](https://community.kubeskills.com/c/lessons/lesson-01)
 
 
 ```bash
