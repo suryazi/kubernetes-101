@@ -22,7 +22,7 @@ k api-resources
 k cluster-info
 
 # list the control plane component versions, and 
-k upgrade plan
+kubeadm upgrade plan
 
 # list the events happening in the cluster
 k get events -A
